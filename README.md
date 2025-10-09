@@ -23,7 +23,7 @@ jupyter notebook
 ```
 Open `customer-churn.ipynb` and **Run All**.
 
-## Current Results (fill from your notebook)
+## Current Results
 - Accuracy: **83.6%**
 - ROC-AUC: **0.79**
 (See notebook for full classification report & confusion matrix.)
